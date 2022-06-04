@@ -171,6 +171,62 @@
               "position_2": "first",
               "size_2": "small"
             }
+          },
+          "105ab59f-75a2-4d68-9bab-f1ba9e4d938e": {
+            "type": "meganav_images",
+            "settings": {
+              "meganav_trigger": "women's fitness 2",
+              "text_1": "",
+              "link_1": "",
+              "position_1": "first",
+              "size_1": "small",
+              "text_2": "",
+              "link_2": "",
+              "position_2": "first",
+              "size_2": "small"
+            }
+          },
+          "02db0996-398a-4cee-b6bd-732d1b1d72c4": {
+            "type": "meganav_images",
+            "settings": {
+              "meganav_trigger": "protein 3",
+              "text_1": "",
+              "link_1": "",
+              "position_1": "first",
+              "size_1": "small",
+              "text_2": "",
+              "link_2": "",
+              "position_2": "first",
+              "size_2": "small"
+            }
+          },
+          "38e29ae2-2255-4781-82f5-7acfb5f6bf25": {
+            "type": "meganav_images",
+            "settings": {
+              "meganav_trigger": "men's fitness 3",
+              "text_1": "",
+              "link_1": "",
+              "position_1": "first",
+              "size_1": "small",
+              "text_2": "",
+              "link_2": "",
+              "position_2": "first",
+              "size_2": "small"
+            }
+          },
+          "0d92395a-a2ff-4fcc-9c22-7de982353182": {
+            "type": "meganav_images",
+            "settings": {
+              "meganav_trigger": "women's fitness 3",
+              "text_1": "",
+              "link_1": "",
+              "position_1": "first",
+              "size_1": "small",
+              "text_2": "",
+              "link_2": "",
+              "position_2": "first",
+              "size_2": "small"
+            }
           }
         },
         "block_order": [
@@ -178,7 +234,11 @@
           "6babb330-db96-4c49-b45b-5d243a2cdb74",
           "1517255946962",
           "1dee0a46-7c8c-4945-bc62-0dca259f2e4a",
-          "73e56269-356a-492d-b823-66b348b14e49"
+          "73e56269-356a-492d-b823-66b348b14e49",
+          "105ab59f-75a2-4d68-9bab-f1ba9e4d938e",
+          "02db0996-398a-4cee-b6bd-732d1b1d72c4",
+          "38e29ae2-2255-4781-82f5-7acfb5f6bf25",
+          "0d92395a-a2ff-4fcc-9c22-7de982353182"
         ],
         "settings": {
           "sticky_header": true,
