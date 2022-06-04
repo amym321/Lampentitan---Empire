@@ -134,7 +134,7 @@
             "type": "meganav_sidenav",
             "settings": {
               "meganav_trigger": "men's fitness",
-              "submenu_layout": "collection_images",
+              "submenu_layout": "product_images",
               "image_aspect_ratio": "natural",
               "image_crop": true
             }
