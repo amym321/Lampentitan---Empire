@@ -147,7 +147,7 @@
           "1dee0a46-7c8c-4945-bc62-0dca259f2e4a": {
             "type": "meganav_images",
             "settings": {
-              "meganav_trigger": "",
+              "meganav_trigger": "protein 2",
               "text_1": "",
               "link_1": "",
               "position_1": "first",
@@ -161,7 +161,7 @@
           "73e56269-356a-492d-b823-66b348b14e49": {
             "type": "meganav_images",
             "settings": {
-              "meganav_trigger": "",
+              "meganav_trigger": "men's fitness",
               "text_1": "",
               "link_1": "",
               "position_1": "first",
