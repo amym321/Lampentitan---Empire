@@ -182,6 +182,11 @@
                   </span>
                 </div>
               {% endif %}
+
+<div style="height:20px;">{{ product.metafields.my_fields.delivery_time }}</div>
+<img src="{{ product.metafields.my_fields.energy_label | img_url: '100x'  }}" style="height:100px;">
+
+
               <div
                 class="product-pricing"
                 aria-live="polite"
